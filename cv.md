@@ -21,7 +21,7 @@ def multiply(a, b):
 return (a * b)
 ```
 ## **Experience:**
-<https://github.com/N-Shulga/rsschool-cv/blob/f887dc86065655f9e2aa6bac01a808be002e040e/cv.md>
+<https://n-shulga.github.io/rsschool-cv/cv>
 ## **Education:**
 * Lyceum of the Belarusian-Russian University.
 * Belarusian State Economic University.
