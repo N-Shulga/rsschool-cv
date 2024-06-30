@@ -1,3 +1,4 @@
+![](https://www.clipartkey.com/mpngs/m/47-472009_blank-face.png)
 # Anastasiya Shulga
 ## Contaсts:
 * Location: Minsk, Belarus
